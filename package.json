@@ -1,0 +1,21 @@
+{
+  "name": "oolio-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhphuEP/oolio-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhphuEP/oolio-qa/issues"
+  },
+  "homepage": "https://github.com/minhphuEP/oolio-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
