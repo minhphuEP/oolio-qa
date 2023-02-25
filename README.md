@@ -31,4 +31,8 @@ Playwright is a framework for Automation Testing. It is built to enable cross br
 ### playwright-report: Where is stored the simple report of Playwright
 ### allure-report: Where is stored the Allure HTML Reports
 
+![Image](allure.PNG)
+
+### The detail reports
+![Image](detail.PNG)
 
