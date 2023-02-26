@@ -25,7 +25,7 @@ Playwright is a framework for Automation Testing. It is built to enable cross br
    - Take Screenshot
    - BaseURL
    - Cross Browser
-   - 4 Threds
+   - 4 Threads
    - 5 times for Retries
 ### test-results: Where is stored the results of test as screenshot, video recorded
 ### playwright-report: Where is stored the simple report of Playwright
