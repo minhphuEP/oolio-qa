@@ -35,3 +35,4 @@ Playwright is a framework for Automation Testing. It is built to enable cross br
 
 ### The detail reports
 ![Image](detail.PNG)
+
